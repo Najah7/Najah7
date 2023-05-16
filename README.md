@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Najah Matsuo
 ====================================================================================================================================
 
-Web Developer
+I’ｍ Web Developer
 -------------
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [najahmatsuo7@gmail.com](mailto:najahmatsuo7@gmail.com)
