@@ -6,7 +6,7 @@ I’ｍ Web Developer
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [najahmatsuo7@gmail.com](mailto:najahmatsuo7@gmail.com)
 
-### Skills
+# Skills
 
 
 <p align="left">
@@ -30,11 +30,11 @@ I’ｍ Web Developer
 </p>
 
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/Najah7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/na_ja_matsu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/na_ja_matsu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Self Introduction
+# Self Introduction
 
 Around 2 years ago, I began studying front-end technologies such as HTML, CSS, and JS through self-directed learning. 
 
@@ -58,7 +58,7 @@ Currently I am pursuing two goals: working as a back-end web development intern 
 
 
 
-### Badges
+# Badges
 
 <b>My GitHub Stats</b>
 
