@@ -36,7 +36,23 @@ I’ｍ Web Developer
 
 ### Self Introduction
 
-Around 2 years ago, I began studying front-end technologies such as HTML, CSS, and JS through self-directed learning. After discovering the joys of programming, I enrolled in a university's information studies department. Over the past 2 years, I have studied a broad range of computer-related topics, including hardware fundamentals, internet basics, programming basics, and algorithms and data structures. As a third-year university student in 2023, I am now delving into more specialized topics such as web development technologies and AI. In addition to my academic studies, I have pursued web application development through self-directed learning, exploring frameworks such as React (in JavaScript) and Flask and Django (in Python). Furthermore, I have completed the CODEGYM Academy program, which specializes in computer science education for students during the COVID-19 pandemic. During the six-month program, I completed CS50, an introductory computer science program from Harvard University, and other courses offered by the academy, covering topics from computer science to web programming. I successfully completed the six-month program, earned my CS50 certification, and graduated from CODEGYM Academy in March 2023. Currently I am pursuing two goals: working as a back-end web development intern and participating in a free data scientist training program for students affected by the pandemic.
+Around 2 years ago, I began studying front-end technologies such as HTML, CSS, and JS through self-directed learning. 
+
+After discovering the joys of programming, I enrolled in a university's information studies department. Over the past 2 years, I have studied a broad range of computer-related topics, including hardware fundamentals, internet basics, programming basics, and algorithms and data structures. 
+
+As a third-year university student in 2023, I am now delving into more specialized topics such as web development technologies and AI.
+
+In addition to my academic studies, I have pursued web application development through self-directed learning, exploring frameworks such as React (in JavaScript) and Flask and Django (in Python).
+
+Furthermore, I have completed the CODEGYM Academy program, which specializes in computer science education for students during the COVID-19 pandemic.
+
+During the six-month program, I completed CS50, an introductory computer science program from Harvard University, and other courses offered by the academy, 
+
+covering topics from computer science to web programming. 
+
+I successfully completed the six-month program, earned my CS50 certification, and graduated from CODEGYM Academy in March 2023. 
+
+Currently I am pursuing two goals: working as a back-end web development intern and participating in a free data scientist training program for students affected by the pandemic.
 
 
 
